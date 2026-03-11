@@ -99,11 +99,12 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 # Output 
 
 ### Refer to the following images to view the output of the program
-![alt text](<Output Images/image.png>)
-![alt text](<Output Images/image-1.png>) 
-![alt text](<Output Images/image-2.png>) 
-![alt text](<Output Images/image-3.png>) 
-![alt text](<Output Images/image-4.png>) 
+<img width="490" height="170" alt="image" src="https://github.com/user-attachments/assets/75e96009-d9eb-425c-ab2c-44aa643d4461" />
+<img width="490" height="256" alt="image" src="https://github.com/user-attachments/assets/7ad8c48b-13cb-48f6-83ee-e689a4793802" />
+<img width="491" height="175" alt="image" src="https://github.com/user-attachments/assets/e0e66461-2be6-42c8-8db6-2f368d505ad3" />
+<img width="490" height="201" alt="image" src="https://github.com/user-attachments/assets/553853db-2415-4333-a8be-e796b3545f5d" />
+<img width="487" height="164" alt="image" src="https://github.com/user-attachments/assets/7b1ee31a-f438-4044-9248-1953db2878cb" />
+
 
 
 # Result 
