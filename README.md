@@ -49,7 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program 
 
-#### DEVELOPED BY : **INESH N**<BR>Reg No : **212223220036 **
+#### DEVELOPED BY : **INESH N**<BR>Reg No : **212223220036**
 
 ### Declaring the value of n
 
